@@ -6,15 +6,20 @@
 			"image": "the-bubbler.png",
 			"victim": "Nino Lahiffe",
 			"goals": ["To get rid of all adults"],
-			"quote": "Let's get this party started!"
+			"quote": "Let's get this party started!",
+			"second_quote": "No more adults means total freedom! This is SOOO sweet! Off the hook!"
 		},
 		{
 			"id": 1,
 			"name": "Mr. Pigeon",
 			"image": "mr-pigeon.png",
 			"victim": "Xavier Ramier",
-			"goals": ["To save the pigeons of Paris", "To turn Paris into a paradise for pigeons by turning all humans into pigeons"],
-			"quote": "Perfect timing, hootie ho! We're ready to greet them, aren't we? They're going to fall right into my trap. It won't be long before you get your Miraculous, friend."
+			"goals": [
+				"To save the pigeons of Paris",
+				"To turn Paris into a paradise for pigeons by turning all humans into pigeons"
+			],
+			"quote": "Perfect timing, hootie ho! We're ready to greet them, aren't we? They're going to fall right into my trap. It won't be long before you get your Miraculous, friend.",
+			"second_quote": "Oh, dreary day, poor Parisians. Sorry to ruffle your feathers, but Paris now belongs to the pigeons! Flap flap!"
 		},
 		{
 			"id": 2,
@@ -22,15 +27,20 @@
 			"image": "stormy-weather.png",
 			"victim": "Mireille Caquet",
 			"goals": ["To get revenge on everybody who turned her down"],
-			"quote": "Hahahaha! I am Stormy Weather. The only weather girl who always gets the forecast right! And unfortunately for you, there's a freak icy front moving in right now!"
+			"quote": "Hahahaha! I am Stormy Weather. The only weather girl who always gets the forecast right! And unfortunately for you, there's a freak icy front moving in right now!",
+			"second_quote": "In Stormy Weather's world, it's winter wonderland FOREVER!"
 		},
 		{
 			"id": 3,
 			"name": "Timebreaker",
 			"image": "timebreaker.png",
 			"victim": "Alix Kubdel",
-			"goals": ["To go back in time to save a family heirloom from being broken", "To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"],
-			"quote": "One and a half minutes. You won't be able to stop me where I'm going, Ladybug"
+			"goals": [
+				"To go back in time to save a family heirloom from being broken",
+				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
+			],
+			"quote": "One and a half minutes. You won't be able to stop me where I'm going, Ladybug",
+			"second_quote": "The name's Timebreaker now. And I'm gonna go back in time and save my watch, using all you punks to do it!"
 		},
 		{
 			"id": 4,
@@ -38,7 +48,49 @@
 			"image": "copycat.png",
 			"victim": "Théo Barbot",
 			"goals": ["To replace Cat Noir and win Ladybug's heart"],
-			"quote": "Don't mind me. Just stealing this painting. Go about your business."
+			"quote": "Don't mind me. Just stealing this painting. Go about your business.",
+			"second_quote": "Too late, Cat. Ladybug's on her way, which was my plan all along."
+		},
+		{
+			"id": 5,
+			"name": "The Pharaoh",
+			"image": "the-pharaoh.png",
+			"victim": "Jalil Kubdel",
+			"goals": ["To perform an ancient ritual to revive Queen Nefertiti"],
+			"quote": null,
+			"second_quote": "Ladybug, my sworn enemy! My nemesis may have kept me from carrying out my ritual 5,000 years ago, but she will not stop Nefertiti from coming back to me this time!"
+		},
+		{
+			"id": 6,
+			"name": "Lady Wifi",
+			"image": "lady-wifi.png",
+			"victim": "Alya Cesaire",
+			"goals": [
+				"To reveal the secret identity of Ladybug",
+				"To assist Puppeteer in getting Ladybug's Miraculous",
+				"To get revenge on Adrien, later Felix for his video",
+				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
+			],
+			"quote": "I am Lady Wifi, revealer of the truth!",
+			"second_quote": null
+		},
+		{
+			"id": 7,
+			"name": "The Evillustrator",
+			"image": "the-evillustrator.png",
+			"victim": "Nathaniel Kurtzberg",
+			"goals": ["To get revenge on Chloe"],
+			"quote": "So, I just came by to ask you, it, uh, well, it's my birthday today, and, uh, would you wanna come to my party?",
+			"second_quote": "Chloé, where are you? Are you hiding? That is so cute. You're playing hide-and-seek. In the closet?!"
+		},
+		{
+			"id": 8,
+			"name": "Rogercop",
+			"image": "rogercop.png",
+			"victim": "Roger Raincomprix",
+			"goals": ["To punish the mayor for firing him"],
+			"quote": "If no one speaks up, I'll put you all under arrest! Where is your father?",
+			"second_quote": "Justice doesn't need an invitation. Mayor, you're under arrest for abuse of power."
 		}
 	]
 }

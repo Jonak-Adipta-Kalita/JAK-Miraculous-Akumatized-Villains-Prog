@@ -33,11 +33,25 @@ const selectVillain = async (id) => {
 const displayPopup = (villaien, id) => {	
 	const image = `./images/${villaien.villains[id - 1].image}`;
 	let goal;
+	let quoteHTMLString;
+	let second_quoteHTMLString;
 	
 	if (!villaien.villains[id - 1].goals[1]) {
 		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol[0]);
 	} else {
 		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol.join(", "));
+	}
+	
+	if (villaien.villains[id - 1].quote === null) {
+		quoteHTMLString = "";
+	} else {
+		quoteHTMLString = `<small>Quote: </small>${villaien.villains[id - 1].quote}`;
+	}
+	
+	if (villaien.villains[id - 1].second_quote === null) {
+		second_quoteHTMLString = "";
+	} else {
+		second_quoteHTMLString = `<small>Second Quote: </small>${villaien.villains[id - 1].second_quote}`;
 	}
 
 	const htmlString = `
@@ -49,7 +63,8 @@ const displayPopup = (villaien, id) => {
 					${villaien.villains[id - 1].id + 1}. ${villaien.villains[id - 1].name}
 				</h2>
 				<p><small>Goal: </small>${goal}</p>
-				<p><small>Quote: </small>${villaien.villains[id - 1].quote}</p>
+				<p>${quoteHTMLString}</p>
+				<p>${second_quoteHTMLString}</p>
 			</div>
 		</div>
 	`;
