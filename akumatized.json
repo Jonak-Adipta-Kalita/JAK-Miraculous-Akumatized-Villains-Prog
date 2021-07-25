@@ -15,6 +15,30 @@
 			"victim": "Xavier Ramier",
 			"goals": ["To save the pigeons of Paris", "To turn Paris into a paradise for pigeons by turning all humans into pigeons"],
 			"quote": "Perfect timing, hootie ho! We're ready to greet them, aren't we? They're going to fall right into my trap. It won't be long before you get your Miraculous, friend."
+		},
+		{
+			"id": 2,
+			"name": "Stormy Weather",
+			"image": "stormy-weather.png",
+			"victim": "Mireille Caquet",
+			"goals": ["To get revenge on everybody who turned her down"],
+			"quote": "Hahahaha! I am Stormy Weather. The only weather girl who always gets the forecast right! And unfortunately for you, there's a freak icy front moving in right now!"
+		},
+		{
+			"id": 3,
+			"name": "Timebreaker",
+			"image": "timebreaker.png",
+			"victim": "Alix Kubdel",
+			"goals": ["To go back in time to save a family heirloom from being broken", "To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"],
+			"quote": "One and a half minutes. You won't be able to stop me where I'm going, Ladybug"
+		},
+		{
+			"id": 4,
+			"name": "Copycat",
+			"image": "copycat.png",
+			"victim": "Théo Barbot",
+			"goals": ["To replace Cat Noir and win Ladybug's heart"],
+			"quote": "Don't mind me. Just stealing this painting. Go about your business."
 		}
 	]
 }
