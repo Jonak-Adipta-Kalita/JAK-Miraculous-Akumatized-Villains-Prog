@@ -1,0 +1,12 @@
+{
+	"villains": [
+		{
+			"id": 0,
+			"name": "The Bubbler",
+			"image": "the-bubbler.png",
+			"victim": "Nino Lahiffe",
+			"goal": "To get rid of all adults",
+			"quote": "Let's get this party started!"
+		}
+	]
+}
