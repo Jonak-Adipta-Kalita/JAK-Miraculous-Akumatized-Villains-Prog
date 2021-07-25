@@ -32,6 +32,13 @@ const selectVillain = async (id) => {
 
 const displayPopup = (villaien, id) => {	
 	const image = `./images/${villaien.villains[id - 1].image}`;
+	let goal;
+	
+	if (!villaien.villains[id - 1].goals[1]) {
+		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol[0]);
+	} else {
+		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol.join(", "));
+	}
 
 	const htmlString = `
 		<div class="popup">
@@ -41,7 +48,7 @@ const displayPopup = (villaien, id) => {
 				<h2 class="card-title">
 					${villaien.villains[id - 1].id + 1}. ${villaien.villains[id - 1].name}
 				</h2>
-				<p><small>Goal: </small>${villaien.villains[id - 1].goal}</p>
+				<p><small>Goal: </small>${goal}</p>
 				<p><small>Quote: </small>${villaien.villains[id - 1].quote}</p>
 			</div>
 		</div>

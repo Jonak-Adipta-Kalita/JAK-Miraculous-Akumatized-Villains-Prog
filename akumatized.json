@@ -5,8 +5,16 @@
 			"name": "The Bubbler",
 			"image": "the-bubbler.png",
 			"victim": "Nino Lahiffe",
-			"goal": "To get rid of all adults",
+			"goals": ["To get rid of all adults"],
 			"quote": "Let's get this party started!"
+		},
+		{
+			"id": 1,
+			"name": "Mr. Pigeon",
+			"image": "mr-pigeon.png",
+			"victim": "Xavier Ramier",
+			"goals": ["To save the pigeons of Paris", "To turn Paris into a paradise for pigeons by turning all humans into pigeons"],
+			"quote": "Perfect timing, hootie ho! We're ready to greet them, aren't we? They're going to fall right into my trap. It won't be long before you get your Miraculous, friend."
 		}
 	]
 }
