@@ -155,6 +155,109 @@
 			],
 			"quote": null,
 			"second_quote": "Ugh! You wanted the cavalry? Well, here it is! Seize him!"
+		},
+		{
+			"id": 15,
+			"name": "Animan",
+			"image": "animan.png",
+			"victim": "Otis Cesaire",
+			"goals": ["To teach Kim a lesson"],
+			"quote": null,
+			"second_quote": "You lost, kiddo. What do you think of panthers now?"
+		},
+		{
+			"id": 16,
+			"name": "Simon Says",
+			"image": "simon-says.png",
+			"victim": "Simon Grimault",
+			"goals": ["To prove he can hypnotize Gabriel Agreste"],
+			"quote": "Welcome to another exciting hour of 'The Challenge'! Good evening again from Simon Says. Viewers, I've kept my promise. Here's Gabriel!",
+			"second_quote": "Simon says... search all over Paris, my army, and find Gabriel Agreste!"
+		},
+		{
+			"id": 17,
+			"name": "Pixelator",
+			"image": "pixelator.png",
+			"victim": "Vincent Aza",
+			"goals": ["To capture Jagged Stone in one of his pictures"],
+			"quote": "Look into the lens.",
+			"second_quote": null
+		},
+		{
+			"id": 18,
+			"name": "Guitar Villain",
+			"image": "guitar-villain.png",
+			"victim": "Jagged Stone",
+			"goals": ["To make everyone dance and get revenge on XY for insulting him"],
+			"quote": "Rockin' Riff, baby!",
+			"second_quote": "Soon, there'll be nothing but Guitar Villain fans, the one and only rocker on Earth."
+		},
+		{
+			"id": 19,
+			"name": "Kung Food",
+			"image": "kung-food.png",
+			"victim": "Wang Cheng",
+			"goals": ["To get revenge on Chloé for sabotaging his soup and making him lose the World's Greatest Chef contest"],
+			"quote": "You want to taste Kung Food's soup. Everybody become my servants, and Kung Food become 'World's Greatest Chef'! Hahahaha!",
+			"second_quote": "Kung Food will make new soup called Brat Soup!"
+		},
+		{
+			"id": 20,
+			"name": "Gamer",
+			"image": "gamer.png",
+			"victim": "Max Kante",
+			"goals": ["To be the greatest gamer in Paris"],
+			"quote": "Welcome to Miraculous All-Star Brawl! If you win, I'll set you free. You, and all of them. But if you lose...",
+			"second_quote": "Game over, Marinette!"
+		},
+		{
+			"id": 21,
+			"name": "Reflekta",
+			"image": "reflekta.png",
+			"victim": "Juleka Couffaine",
+			"goals": [
+				"To be noticed",
+				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again",
+				"To wants to drown herself in her own guilt and for her classmates to go back to treating Rose like a normal person"
+			],
+			"quote": "Nobody's ever noticed me! But those days are over! But from now on, everybody will notice me because everybody will look like me! Time to get a new look!",
+			"second_quote": "Don't worry, I'll take care of it! Hahahaha! Where is Chloé Bourgeois!?"
+		},
+		{
+			"id": 22,
+			"name": "The Puppeteer",
+			"image": "the-puppeteer.png",
+			"victim": "Manon Chamack",
+			"goals": ["To get Ladybug and Cat Noir's Dolls"],
+			"quote": "I want... those... dolls!",
+			"second_quote": "Okay, Lady Wifi. Come to life!"
+		},
+		{
+			"id": 23,
+			"name": "Vanisher",
+			"image": "vanisher.png",
+			"victim": "Sabrina Raincomprix",
+			"goals": ["To get revenge on Chloé for pretending she didn't exist"],
+			"quote": "Just because you can see me, doesn't mean you'll defeat me Ladybug!",
+			"second_quote": "You've got no friends left, Chloé. And you'll never have any, EVER again. I'll make sure of that."
+		},
+		{
+			"id": 24,
+			"name": "Antibug",
+			"image": "antibug.png",
+			"victim": "Chloé Bourgeois",
+			"goals": ["To get revenge on Ladybug for betraying her fan"],
+			"quote": "Wrong, super wrong. I am Antibug!",
+			"second_quote": "Ha ha ha ha! If it weren't for me, you wouldn't have defeated Vanisher. And now, I'm going to defeat you!"
+		},
+		{
+			"id": 25,
+			"name": "Volpina",
+			"image": "volpina.png",
+			"victim": "Lila Rossi",
+			"goals": ["To get revenge on Ladybug for exposing her as a liar"],
+			"quote": "I am Volpina, the only superhero Paris needs.",
+			"second_quote": "Everyone thinks I'm a superhero, including Cat Noir. So you won't be able to call me a liar anymore 'cause everyone will think you're the liar."
 		}
 	]
 }

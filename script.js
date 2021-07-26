@@ -62,7 +62,7 @@ const displayPopup = (villaien, id) => {
 				<h2 class="card-title">
 					${villaien.villains[id - 1].id + 1}. ${villaien.villains[id - 1].name}
 				</h2>
-				<p><small>Goal: </small>${goal}</p>
+				<p><small>Goal(s): </small>${goal}</p>
 				<p>${quoteHTMLString}</p>
 				<p>${second_quoteHTMLString}</p>
 			</div>
