@@ -91,6 +91,70 @@
 			"goals": ["To punish the mayor for firing him"],
 			"quote": "If no one speaks up, I'll put you all under arrest! Where is your father?",
 			"second_quote": "Justice doesn't need an invitation. Mayor, you're under arrest for abuse of power."
+		},
+		{
+			"id": 9,
+			"name": "Dark Cupid",
+			"image": "dark-cupid.png",
+			"victim": "Le Chien Kim",
+			"goals": ["To spread hate in all of Paris"],
+			"quote": "I can help you crush Ladybug, but you must give me her Miraculous in return.",
+			"second_quote": "I'm not Kim, I'm Dark Cupid! I'll never stop! If I can't have love, then no one can!"
+		},
+		{
+			"id": 10,
+			"name": "Horrificator",
+			"image": "horrificator.png",
+			"victim": "Mylene Haprele",
+			"goals": [
+				"To make people feel her fear",
+				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
+			],
+			"quote": null,
+			"second_quote": null
+		},
+		{
+			"id": 11,
+			"name": "Darkblade",
+			"image": "darkblade.png",
+			"victim": "Armand D'Argencourt",
+			"goals": ["To take back Paris for the original Darkblade"],
+			"quote": "Henceforth, my flag shalt fly over thy kingdom! Bourgeois, pathetic knave, come hither and do battle!",
+			"second_quote": "Ha ha ha ha ha! Bow down to Darkblade, or feel the wrath of mine sword!"
+		},
+		{
+			"id": 12,
+			"name": "The Mime",
+			"image": "the-mime.png",
+			"victim": "Fred Haprele",
+			"goals": ["To get revenge on Chris for stealing his part in a performance"],
+			"quote": null,
+			"second_quote": null
+		},
+		{
+			"id": 13,
+			"name": "Princess Fragrance",
+			"image": "princess-fragrance.png",
+			"victim": "Rose Lavillant",
+			"goals": [
+				"To be with Prince Ali",
+				"To get revenge on Adrien, later Felix for his video",
+				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
+			],
+			"quote": "My prince, my prince, smell the fragrance of my eternal love!",
+			"second_quote": "I'm Princess Fragrance and I've come just for you! In just a spritz, you'll be mine, Prince Ali!"
+		},
+		{
+			"id": 14,
+			"name": "Stoneheart",
+			"image": "stoneheart.png",
+			"victim": "Ivan Bruel",
+			"goals": [
+				"To get revenge on the people who wronged him",
+				"To be with Mylene"
+			],
+			"quote": null,
+			"second_quote": "Ugh! You wanted the cavalry? Well, here it is! Seize him!"
 		}
 	]
 }
