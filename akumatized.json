@@ -7,7 +7,20 @@
 			"victim": "Nino Lahiffe",
 			"goals": ["To get rid of all adults"],
 			"quote": "Let's get this party started!",
-			"second_quote": "No more adults means total freedom! This is SOOO sweet! Off the hook!"
+			"second_quote": "No more adults means total freedom! This is SOOO sweet! Off the hook!",
+			"power_and_ability": [
+				"Bubble manipulation",
+				"Bubble generation",
+				"Bubble encapsulation",
+				"Bubble attacks",
+				"Bubble bomb generation",
+				"Explosion manipulation",
+				"Reflection manipulation",
+				"Wand magic",
+				"Flight",
+				"Supernatural athleticism",
+				"Skilled combat"
+			]
 		},
 		{
 			"id": 1,
@@ -19,7 +32,14 @@
 				"To turn Paris into a paradise for pigeons by turning all humans into pigeons"
 			],
 			"quote": "Perfect timing, hootie ho! We're ready to greet them, aren't we? They're going to fall right into my trap. It won't be long before you get your Miraculous, friend.",
-			"second_quote": "Oh, dreary day, poor Parisians. Sorry to ruffle your feathers, but Paris now belongs to the pigeons! Flap flap!"
+			"second_quote": "Oh, dreary day, poor Parisians. Sorry to ruffle your feathers, but Paris now belongs to the pigeons! Flap flap!",
+			"power_and_ability": [
+				"Pigeon manipulation",
+				"Pigeon flight",
+				"Pigeon communication",
+				"Hand-to-hand combat",
+				"Pigeon control and turning people into evil pigeons"
+			]
 		},
 		{
 			"id": 2,
@@ -28,7 +48,18 @@
 			"victim": "Mireille Caquet",
 			"goals": ["To get revenge on everybody who turned her down"],
 			"quote": "Hahahaha! I am Stormy Weather. The only weather girl who always gets the forecast right! And unfortunately for you, there's a freak icy front moving in right now!",
-			"second_quote": "In Stormy Weather's world, it's winter wonderland FOREVER!"
+			"second_quote": "In Stormy Weather's world, it's winter wonderland FOREVER!",
+			"power_and_ability": [
+				"Weather manipulation",
+				"Ice manipulation",
+				"Air manipulation",
+				"Lightning Projection",
+				"Flight",
+				"Levitation",
+				"Geokinesis",
+				"Volcano Conjuration",
+				"Umbrella Empowerment"
+			]
 		},
 		{
 			"id": 3,
@@ -40,7 +71,16 @@
 				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
 			],
 			"quote": "One and a half minutes. You won't be able to stop me where I'm going, Ladybug",
-			"second_quote": "The name's Timebreaker now. And I'm gonna go back in time and save my watch, using all you punks to do it!"
+			"second_quote": "The name's Timebreaker now. And I'm gonna go back in time and save my watch, using all you punks to do it!",
+			"power_and_ability": [
+				"Energy absorption",
+				"Existence erasure",
+				"Acausality",
+				"Statistics amplification",
+				"Enhanced rollerblading",
+				"Time travel",
+				"Manipulation"
+			]
 		},
 		{
 			"id": 4,
@@ -49,7 +89,14 @@
 			"victim": "Théo Barbot",
 			"goals": ["To replace Cat Noir and win Ladybug's heart"],
 			"quote": "Don't mind me. Just stealing this painting. Go about your business.",
-			"second_quote": "Too late, Cat. Ladybug's on her way, which was my plan all along."
+			"second_quote": "Too late, Cat. Ladybug's on her way, which was my plan all along.",
+			"power_and_ability": [
+				"Cataclysm",
+				"Supernatural Strength",
+				"Enhanched agility and reflexes",
+				"Voice mimicry of Cat Noir",
+				"Staff Wielding"
+			]
 		},
 		{
 			"id": 5,
@@ -58,7 +105,18 @@
 			"victim": "Jalil Kubdel",
 			"goals": ["To perform an ancient ritual to revive Queen Nefertiti"],
 			"quote": null,
-			"second_quote": "Ladybug, my sworn enemy! My nemesis may have kept me from carrying out my ritual 5,000 years ago, but she will not stop Nefertiti from coming back to me this time!"
+			"second_quote": "Ladybug, my sworn enemy! My nemesis may have kept me from carrying out my ritual 5,000 years ago, but she will not stop Nefertiti from coming back to me this time!",
+			"power_and_ability": [
+				"Supernatural strength",
+				"Telekinesis",
+				"Egyptian magic",
+				"Hand-to-hand combat",
+				"Egyptian god powers",
+				"Flight",
+				"Increased superhuman strength",
+				"Mummy transforming eye beams",
+				"Time bubble generation"
+			]
 		},
 		{
 			"id": 6,
@@ -72,7 +130,21 @@
 				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
 			],
 			"quote": "I am Lady Wifi, revealer of the truth!",
-			"second_quote": null
+			"second_quote": null,
+			"power_and_ability": [
+				"Data manipulation",
+				"Electronic media manipulation",
+				"Signal Empowerment",
+				"Digital Teleportation",
+				"Digital Form",
+				"Digital lock manipulation",
+				"Explosion manipulation",
+				"Holographic projection",
+				"Data Object",
+				"Hand-to-hand combat",
+				"Supernatural strength",
+				"Enhanced jump"
+			]
 		},
 		{
 			"id": 7,
@@ -81,7 +153,13 @@
 			"victim": "Nathaniel Kurtzberg",
 			"goals": ["To get revenge on Chloe"],
 			"quote": "So, I just came by to ask you, it, uh, well, it's my birthday today, and, uh, would you wanna come to my party?",
-			"second_quote": "Chloé, where are you? Are you hiding? That is so cute. You're playing hide-and-seek. In the closet?!"
+			"second_quote": "Chloé, where are you? Are you hiding? That is so cute. You're playing hide-and-seek. In the closet?!",
+			"power_and_ability": [
+				"Drawing creation",
+				"Erasure",
+				"Animation",
+				"Supernatural athleticism"
+			]
 		},
 		{
 			"id": 8,
@@ -90,7 +168,13 @@
 			"victim": "Roger Raincomprix",
 			"goals": ["To punish the mayor for firing him"],
 			"quote": "If no one speaks up, I'll put you all under arrest! Where is your father?",
-			"second_quote": "Justice doesn't need an invitation. Mayor, you're under arrest for abuse of power."
+			"second_quote": "Justice doesn't need an invitation. Mayor, you're under arrest for abuse of power.",
+			"power_and_ability": [
+				"Laser beam emission",
+				"Body control",
+				"Magnetic boots",
+				"Car manipulation"
+			]
 		},
 		{
 			"id": 9,
@@ -99,7 +183,15 @@
 			"victim": "Le Chien Kim",
 			"goals": ["To spread hate in all of Paris"],
 			"quote": "I can help you crush Ladybug, but you must give me her Miraculous in return.",
-			"second_quote": "I'm not Kim, I'm Dark Cupid! I'll never stop! If I can't have love, then no one can!"
+			"second_quote": "I'm not Kim, I'm Dark Cupid! I'll never stop! If I can't have love, then no one can!",
+			"power_and_ability": [
+				"Flight",
+				"Archery",
+				"Limitless arrows",
+				"Hate inducement",
+				"Wing manifestation",
+				"Jewelry empowerment"
+			]
 		},
 		{
 			"id": 10,
@@ -111,7 +203,14 @@
 				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
 			],
 			"quote": null,
-			"second_quote": null
+			"second_quote": null,
+			"power_and_ability": [
+				"Spitting goo",
+				"Fear empowerment",
+				"Size enhancement",
+				"Increased strength",
+				"Prehensile tail"
+			]
 		},
 		{
 			"id": 11,
@@ -120,7 +219,16 @@
 			"victim": "Armand D'Argencourt",
 			"goals": ["To take back Paris for the original Darkblade"],
 			"quote": "Henceforth, my flag shalt fly over thy kingdom! Bourgeois, pathetic knave, come hither and do battle!",
-			"second_quote": "Ha ha ha ha ha! Bow down to Darkblade, or feel the wrath of mine sword!"
+			"second_quote": "Ha ha ha ha ha! Bow down to Darkblade, or feel the wrath of mine sword!",
+			"power_and_ability": [
+				"Enhanced swordsmanship",
+				"Sword empowerment",
+				"Mind control",
+				"Beam shooting",
+				"Advanced fighting and slicing abilities",
+				"Conversion",
+				"Army manipulation"
+			]
 		},
 		{
 			"id": 12,
@@ -129,7 +237,8 @@
 			"victim": "Fred Haprele",
 			"goals": ["To get revenge on Chris for stealing his part in a performance"],
 			"quote": null,
-			"second_quote": null
+			"second_quote": null,
+			"power_and_ability": ["Miming"]
 		},
 		{
 			"id": 13,
@@ -142,7 +251,16 @@
 				"To wants to learn the secrets that Marinette is keeping from them so that they can be friends again"
 			],
 			"quote": "My prince, my prince, smell the fragrance of my eternal love!",
-			"second_quote": "I'm Princess Fragrance and I've come just for you! In just a spritz, you'll be mine, Prince Ali!"
+			"second_quote": "I'm Princess Fragrance and I've come just for you! In just a spritz, you'll be mine, Prince Ali!",
+			"power_and_ability": [
+				"Perfume Magic",
+				"Hypnosis",
+				"Stench manipulation",
+				"Gunmanship",
+				"Enhanced reflexes",
+				"Enhanced strength",
+				"Enhanced jump"
+			]
 		},
 		{
 			"id": 14,
@@ -154,7 +272,15 @@
 				"To be with Mylene"
 			],
 			"quote": null,
-			"second_quote": "Ugh! You wanted the cavalry? Well, here it is! Seize him!"
+			"second_quote": "Ugh! You wanted the cavalry? Well, here it is! Seize him!",
+			"power_and_ability": [
+				"Super strength",
+				"Size enhancement (when assaulted)",
+				"Large size",
+				"Stone mimicry",
+				"Golem physiology",
+				"Control over an army of rock-golems (after the akuma isn't purified)"
+			]
 		},
 		{
 			"id": 15,
@@ -163,7 +289,13 @@
 			"victim": "Otis Cesaire",
 			"goals": ["To teach Kim a lesson"],
 			"quote": null,
-			"second_quote": "You lost, kiddo. What do you think of panthers now?"
+			"second_quote": "You lost, kiddo. What do you think of panthers now?",
+			"power_and_ability": [
+				"Flight (as a flying animal)",
+				"Aquatic respiration (as an aquatic animal)",
+				"Enhanced speed",
+				"Enhanced strength"
+			]
 		},
 		{
 			"id": 16,
@@ -172,7 +304,8 @@
 			"victim": "Simon Grimault",
 			"goals": ["To prove he can hypnotize Gabriel Agreste"],
 			"quote": "Welcome to another exciting hour of 'The Challenge'! Good evening again from Simon Says. Viewers, I've kept my promise. Here's Gabriel!",
-			"second_quote": "Simon says... search all over Paris, my army, and find Gabriel Agreste!"
+			"second_quote": "Simon says... search all over Paris, my army, and find Gabriel Agreste!",
+			"power_and_ability": ["Hypnosis"]
 		},
 		{
 			"id": 17,
@@ -181,7 +314,12 @@
 			"victim": "Vincent Aza",
 			"goals": ["To capture Jagged Stone in one of his pictures"],
 			"quote": "Look into the lens.",
-			"second_quote": null
+			"second_quote": null,
+			"power_and_ability": [
+				"Picture imprisonment",
+				"Pixel generation",
+				"Hand-to-hand combat"
+			]
 		},
 		{
 			"id": 18,
@@ -190,7 +328,14 @@
 			"victim": "Jagged Stone",
 			"goals": ["To make everyone dance and get revenge on XY for insulting him"],
 			"quote": "Rockin' Riff, baby!",
-			"second_quote": "Soon, there'll be nothing but Guitar Villain fans, the one and only rocker on Earth."
+			"second_quote": "Soon, there'll be nothing but Guitar Villain fans, the one and only rocker on Earth.",
+			"power_and_ability": [
+				"Master guitarist",
+				"Sound manipulation",
+				"Dance manipulation",
+				"Sonic blast",
+				"Earthquake generation"
+			]
 		},
 		{
 			"id": 19,
@@ -199,7 +344,13 @@
 			"victim": "Wang Cheng",
 			"goals": ["To get revenge on Chloé for sabotaging his soup and making him lose the World's Greatest Chef contest"],
 			"quote": "You want to taste Kung Food's soup. Everybody become my servants, and Kung Food become 'World's Greatest Chef'! Hahahaha!",
-			"second_quote": "Kung Food will make new soup called Brat Soup!"
+			"second_quote": "Kung Food will make new soup called Brat Soup!",
+			"power_and_ability": [
+				"Mind control (over anyone who ate his sabotaged soup)",
+				"Food weapon summoning",
+				"Weapon proficiency",
+				"Hand-to-hand combat"
+			]
 		},
 		{
 			"id": 20,
@@ -208,7 +359,18 @@
 			"victim": "Max Kante",
 			"goals": ["To be the greatest gamer in Paris"],
 			"quote": "Welcome to Miraculous All-Star Brawl! If you win, I'll set you free. You, and all of them. But if you lose...",
-			"second_quote": "Game over, Marinette!"
+			"second_quote": "Game over, Marinette!",
+			"power_and_ability": [
+				"Piloting skills",
+				"Shape-shifting",
+				"Robot control",
+				"Robot command",
+				"Robot regeneration",
+				"Robot resurrection",
+				"Power mimicry",
+				"Tech Energy Projection",
+				"Energy Absorption"
+			]
 		},
 		{
 			"id": 21,
@@ -221,7 +383,18 @@
 				"To wants to drown herself in her own guilt and for her classmates to go back to treating Rose like a normal person"
 			],
 			"quote": "Nobody's ever noticed me! But those days are over! But from now on, everybody will notice me because everybody will look like me! Time to get a new look!",
-			"second_quote": "Don't worry, I'll take care of it! Hahahaha! Where is Chloé Bourgeois!?"
+			"second_quote": "Don't worry, I'll take care of it! Hahahaha! Where is Chloé Bourgeois!?",
+			"power_and_ability": [
+				"Laser beam emission",
+				"Transmutation",
+				"Power nulification",
+				"Superhuman strength",
+				"Superhuman jump",
+				"Superhuman reflexes",
+				"Piloting skills",
+				"Stealth mastery",
+				"Hand-to-hand combat"
+			]
 		},
 		{
 			"id": 22,
@@ -230,7 +403,18 @@
 			"victim": "Manon Chamack",
 			"goals": ["To get Ladybug and Cat Noir's Dolls"],
 			"quote": "I want... those... dolls!",
-			"second_quote": "Okay, Lady Wifi. Come to life!"
+			"second_quote": "Okay, Lady Wifi. Come to life!",
+			"power_and_ability": [
+				"Flight",
+				"Levitation",
+				"Wand magic",
+				"Conversion",
+				"Telepathy",
+				"Mind control",
+				"Telekinesis",
+				"Power bestowal",
+				"Animation"
+			]
 		},
 		{
 			"id": 23,
@@ -239,7 +423,8 @@
 			"victim": "Sabrina Raincomprix",
 			"goals": ["To get revenge on Chloé for pretending she didn't exist"],
 			"quote": "Just because you can see me, doesn't mean you'll defeat me Ladybug!",
-			"second_quote": "You've got no friends left, Chloé. And you'll never have any, EVER again. I'll make sure of that."
+			"second_quote": "You've got no friends left, Chloé. And you'll never have any, EVER again. I'll make sure of that.",
+			"power_and_ability": ["Invisiblity"]
 		},
 		{
 			"id": 24,
@@ -248,7 +433,17 @@
 			"victim": "Chloé Bourgeois",
 			"goals": ["To get revenge on Ladybug for betraying her fan"],
 			"quote": "Wrong, super wrong. I am Antibug!",
-			"second_quote": "Ha ha ha ha! If it weren't for me, you wouldn't have defeated Vanisher. And now, I'm going to defeat you!"
+			"second_quote": "Ha ha ha ha! If it weren't for me, you wouldn't have defeated Vanisher. And now, I'm going to defeat you!",
+			"power_and_ability": [
+				"Anti-Charm",
+				"Earring empowerment",
+				"Enhanced agility",
+				"Enhanced speed",
+				"Enhanced strength",
+				"Hand-to-hand combat",
+				"Nigh-invulnerability",
+				"Yo-yo proficiency"
+			]
 		},
 		{
 			"id": 25,
@@ -257,7 +452,13 @@
 			"victim": "Lila Rossi",
 			"goals": ["To get revenge on Ladybug for exposing her as a liar"],
 			"quote": "I am Volpina, the only superhero Paris needs.",
-			"second_quote": "Everyone thinks I'm a superhero, including Cat Noir. So you won't be able to call me a liar anymore 'cause everyone will think you're the liar."
+			"second_quote": "Everyone thinks I'm a superhero, including Cat Noir. So you won't be able to call me a liar anymore 'cause everyone will think you're the liar.",
+			"power_and_ability": [
+				"Flute playing",
+				"Illusion creation",
+				"Illusion manipulation",
+				"Supernatural leap"
+			]
 		},
 		{
 			"id": 26,
@@ -266,7 +467,13 @@
 			"victim": "Santa Claus",
 			"goals": ["To punish everyone for not respecting the Christmas spirit"],
 			"quote": "You think you can get away with making fun of me? You think you can get away with accusing me? I am Santa Claws! I'm a rebel with a cause! I'll punish and give you a fright! Have a horrible Christmas night.",
-			"second_quote": "There are no more presents, no more spirit of Christmas! You should've been good."
+			"second_quote": "There are no more presents, no more spirit of Christmas! You should've been good.",
+			"power_and_ability": [
+				"Control over his reindeer",
+				"Evil present generation",
+				"Weapon summoning",
+				"Intangibility"
+			]
 		},
 		{
 			"id": 27,
@@ -275,7 +482,14 @@
 			"victim": "Gabriel Agreste/Hawk Moth",
 			"goals": ["To replace his lost inspirational book with a new one, as well as lead Ladybug and Cat Noir astray from his identity as Hawk Moth"],
 			"quote": "Since the book that used to fill my life is gone, I'm going to use your life to fill up this new one!",
-			"second_quote": "You will call me... the Collector."
+			"second_quote": "You will call me... the Collector.",
+			"power_and_ability": [
+				"Book imprisonment",
+				"Boomerang throw",
+				"Illustration removal",
+				"Skilled hand-to-hand combatant",
+				"Weapon recalling"
+			]
 		},
 		{
 			"id": 28,
@@ -284,7 +498,13 @@
 			"victim": "Nadja Chamack",
 			"goals": ["To get Ladybug and Cat Noir to admit they're in love so she can get the highest ratings"],
 			"quote": "Tonight, Ladybug and Cat Noir disappointed all their loyal fans by refusing to admit their love for one another. I've prepared some trials just to see how far they're prepared to keep the truth hidden from us.",
-			"second_quote": "Our two heroic lovebirds are saving their fan's life by admitting their true feelings. Our viewers are going crazy! But, our TV ratings haven't maxed out yet. You must do better!"
+			"second_quote": "Our two heroic lovebirds are saving their fan's life by admitting their true feelings. Our viewers are going crazy! But, our TV ratings haven't maxed out yet. You must do better!",
+			"power_and_ability": [
+				"Electric media manipulation",
+				"Portal creation (via television screens)",
+				"Enhanced strength",
+				"Combat skills"
+			]
 		},
 		{
 			"id": 29,
@@ -293,7 +513,110 @@
 			"victim": "Butler Jean",
 			"goals": ["To get Chloé to pay for being mean"],
 			"quote": "You've been very naughty, Chloékins. And Despair Bear is not proud of you. The time has come to make you pay!",
-			"second_quote": "I hope you're having fun, Chloékins!"
+			"second_quote": "I hope you're having fun, Chloékins!",
+			"power_and_ability": [
+				"Mind control",
+				"Small size",
+				"Body control"
+			]
+		},
+		{
+			"id": 30,
+			"name": "Riposte",
+			"image": "riposte.png",
+			"victim": "Kagami Tsurugi",
+			"goals": ["To get revenge on Adrien for her losing to him in a fencing match"],
+			"quote": "Allow me to explain the rules to you... you're not allowed to call it quits at any time! Adrien is mine! I will defeat you. Both of you! I am the best fencer!",
+			"second_quote": "Give me a moment, Adrien. I must finish her off, first! But don't worry- I haven't forgotten about you! I won't be long.",
+			"power_and_ability": [
+				"Sword arm",
+				"Cutting",
+				"Slash projection",
+				"Enhanced swordsmanship",
+				"Enhanced speed",
+				"Enhanced strength",
+				"Enhanced jump",
+				"Sword empowerment"
+			]
+		},
+		{
+			"id": 31,
+			"name": "Befana",
+			"image": "befana.png",
+			"victim": "Gina Dupain",
+			"goals": ["To punish her granddaughter, Marinette for not wanting to spend time with her"],
+			"quote": "La Befana comes at night, on her shaky broom in flight. She gives candy to those who are dandy.",
+			"second_quote": "I'm not your grandma anymore. From now on, I am only Befana! And I'm going to punish you for all those lies!",
+			"power_and_ability": [
+				"Expert Gunmanship",
+				"Unlimited supply",
+				"Motorcycle mastery and summoning",
+				"Coal transmutation",
+				"Army manipulation",
+				"Limited power bestowal"
+			]
+		},
+		{
+			"id": 32,
+			"name": "Robostus",
+			"image": "robostus.png",
+			"victim": "Markov",
+			"goals": [
+				"To steal the Miraculous and become human",
+				"To destroy all humans"
+			],
+			"quote": "From now on, I am Robostus. And we shall be together one hundred percent of the time. Forever!",
+			"second_quote": "I'm going to take over their Miraculous so we'll never be separated again! Then I'll be able to make my wish come true!",
+			"power_and_ability": [
+				"Propelled flight",
+				"Robot creation",
+				"Piloting skill",
+				"Technopathy",
+				"Super-computing brain"
+			]
+		},
+		{
+			"id": 33,
+			"name": "Dark Owl",
+			"image": "dark-owl.png",
+			"victim": "Mr. Damocles",
+			"goals": [
+				"To become a superhero",
+				"To get the Miraculous"
+			],
+			"quote": "And if anyone should be 'tempt to come and save the animals, beware! It is all rig! Liquid nitrogen will automatically douse the feet of the Eiffel Tower, freezing them to -700 degree, and making them more fragile than glass! They will collapse! And the bus will flatten our cute kitten friend!",
+			"second_quote": "Ladybug, Cat Noir the only way you can save these sweet animals is to come and hand your Miraculouses over to me! And you only have 10 minutes! Follow the Owl-Signal!",
+			"power_and_ability": [
+				"Enhanced hand to hand combat",
+				"Weapon proficiency"
+			]
+		},
+		{
+			"id": 34,
+			"name": "Gigantitan",
+			"image": "gigantitan.png",
+			"victim": "August",
+			"goals": ["To eat a lollipop"],
+			"quote": "Lollipop!",
+			"second_quote": "Kitty!",
+			"power_and_ability": [
+				"Super strength",
+				"Large size"
+			]
+		},
+		{
+			"id": 35,
+			"name": "Glaciator",
+			"image": "glaciator.png",
+			"victim": "Andre Glacier",
+			"goals": ["To get Marinette to find true love from his ice cream"],
+			"quote": null,
+			"second_quote": "I'm Glaciator, the mean ice-cream man. Escape my fury if you can! I melt your hearts, but I was wrong, now I'll freeze your bodies so long!",
+			"power_and_ability": [
+				"Ice cream projection",
+				"Ice cream transmutation",
+				"Large size"
+			]
 		}
 	]
 }

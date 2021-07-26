@@ -32,6 +32,7 @@ const selectVillain = async (id) => {
 
 const displayPopup = (villaien, id) => {	
 	const image = `./images/${villaien.villains[id - 1].image}`;
+	const power_and_ability = Array(villaien.villains[id - 1].power_and_ability).map((powerandability) => powerandability.join(", "));
 	let goal;
 	let quoteHTMLString;
 	let second_quoteHTMLString;
@@ -65,6 +66,7 @@ const displayPopup = (villaien, id) => {
 				<p><small>Goal(s): </small>${goal}</p>
 				<p>${quoteHTMLString}</p>
 				<p>${second_quoteHTMLString}</p>
+				<p><small>Power and Ability(s): </small>${power_and_ability}</p>
 			</div>
 		</div>
 	`;
