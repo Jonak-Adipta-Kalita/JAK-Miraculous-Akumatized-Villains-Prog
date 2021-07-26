@@ -258,6 +258,42 @@
 			"goals": ["To get revenge on Ladybug for exposing her as a liar"],
 			"quote": "I am Volpina, the only superhero Paris needs.",
 			"second_quote": "Everyone thinks I'm a superhero, including Cat Noir. So you won't be able to call me a liar anymore 'cause everyone will think you're the liar."
+		},
+		{
+			"id": 26,
+			"name": "Santa Claws",
+			"image": "santa-claws.png",
+			"victim": "Santa Claus",
+			"goals": ["To punish everyone for not respecting the Christmas spirit"],
+			"quote": "You think you can get away with making fun of me? You think you can get away with accusing me? I am Santa Claws! I'm a rebel with a cause! I'll punish and give you a fright! Have a horrible Christmas night.",
+			"second_quote": "There are no more presents, no more spirit of Christmas! You should've been good."
+		},
+		{
+			"id": 27,
+			"name": "The Collector",
+			"image": "the-collector.png",
+			"victim": "Gabriel Agreste/Hawk Moth",
+			"goals": ["To replace his lost inspirational book with a new one, as well as lead Ladybug and Cat Noir astray from his identity as Hawk Moth"],
+			"quote": "Since the book that used to fill my life is gone, I'm going to use your life to fill up this new one!",
+			"second_quote": "You will call me... the Collector."
+		},
+		{
+			"id": 28,
+			"name": "Prime Queen",
+			"image": "prime-queen.png",
+			"victim": "Nadja Chamack",
+			"goals": ["To get Ladybug and Cat Noir to admit they're in love so she can get the highest ratings"],
+			"quote": "Tonight, Ladybug and Cat Noir disappointed all their loyal fans by refusing to admit their love for one another. I've prepared some trials just to see how far they're prepared to keep the truth hidden from us.",
+			"second_quote": "Our two heroic lovebirds are saving their fan's life by admitting their true feelings. Our viewers are going crazy! But, our TV ratings haven't maxed out yet. You must do better!"
+		},
+		{
+			"id": 29,
+			"name": "Despair Bear",
+			"image": "despair-bear.png",
+			"victim": "Butler Jean",
+			"goals": ["To get Chloé to pay for being mean"],
+			"quote": "You've been very naughty, Chloékins. And Despair Bear is not proud of you. The time has come to make you pay!",
+			"second_quote": "I hope you're having fun, Chloékins!"
 		}
 	]
 }
