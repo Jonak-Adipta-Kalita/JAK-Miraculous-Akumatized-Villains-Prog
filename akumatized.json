@@ -617,6 +617,90 @@
 				"Ice cream transmutation",
 				"Large size"
 			]
+		},
+		{
+			"id": 36,
+			"name": "Sapotis",
+			"image": "sapotis.png",
+			"victim": "Ella and Etta Césaire",
+			"goals": ["To cause mischief"],
+			"quote": "Rock n' roll!",
+			"second_quote": "Miraculous!",
+			"power_and_ability": [
+				"Enhanced strength",
+				"Consumptive cloning",
+				"Curling into balls"
+			]
+		},
+		{
+			"id": 37,
+			"name": "Gorizilla",
+			"image": "gorizilla.png",
+			"victim": "Adrien's Bodyguard",
+			"goals": ["To keep a close watch on Adrien"],
+			"quote": null,
+			"second_quote": null,
+			"power_and_ability": [
+				"Enhanced sense of smell",
+				"Enhanced strength",
+				"Large size"
+			]
+		},
+		{
+			"id": 38,
+			"name": "Captain Hardrock",
+			"image": "captain-hardrock.png",
+			"victim": "Anarka Couffaine",
+			"goals": ["To steal Ladybug and Cat Noir's Miraculous"],
+			"quote": "Your mom has weighed anchor, me lad, I'm Captain Hardrock and today Paris's timbers are about to be shivered by my cannons. Westward ho, Liberty next stop, Jagged Stone at the Eiffel Tower. Soon, there will only be one concert in Paris only one Music Festival. We will destroy all the others. Now, get to your instruments and rock those decibels!",
+			"second_quote": "Nothing and no one will stop Captain Hardrock from playing her music! Fire!",
+			"power_and_ability": [
+				"Control over 'Liberty'",
+				"Swordsmanship",
+				"Enhanced durability"
+			]
+		},
+		{
+			"id": 39,
+			"name": "Frightningale",
+			"image": "frightningale.png",
+			"victim": "Clara Nightingale",
+			"goals": ["To turn Paris into one big music video"],
+			"quote": "I'm Frightningale from here on out, Forever and ever, there's no doubt! And if you stand in my way, There'll be a price to pay!",
+			"second_quote": "Sing, dance or rhyme, Or you'll be frozen in no time!",
+			"power_and_ability": [
+				"Supernatural leap",
+				"Whipmanship"
+			]
+		},
+		{
+			"id": 40,
+			"name": "Syren",
+			"image": "syren.png",
+			"victim": "Ondine",
+			"goals": ["To create an undersea kingdom for herself and Kim"],
+			"quote": "Yes, Kim! You'll be my Prince, and we'll rule this underwater city together, forever!",
+			"second_quote": "I'm your Syren now. And you can be my merman. It only needs a kiss, and you'll become just like me!",
+			"power_and_ability": [
+				"Hydrokinesis",
+				"Aquatic respiration",
+				"Air bubble generation",
+				"Enhanced swimming speed"
+			]
+		},
+		{
+			"id": 41,
+			"name": "Zombizou",
+			"image": "zombizou.png",
+			"victim": "Caline Bustier",
+			"goals": ["To have people to 'feel the love'."],
+			"quote": "I took care of your father, Chloé. Show yourself! Then, Ladybug and Cat Noir? I'm coming for you. Mwah! Unless, of course, my sweethearts get hold of you first; because very soon, the whole city will be hot on your heels!",
+			"second_quote": "I have got some great news for you, students! From now on, everyone's going to hug and kiss and feel the love! Even you, Chloé.",
+			"power_and_ability": [
+				"Enhanced strength",
+				"Enhanced jump",
+				"Zombifying Kisses"
+			]
 		}
 	]
 }
