@@ -1032,6 +1032,39 @@
 				"Enhanced agility and reflexes",
 				"Cunning"
 			]
+		},
+		{
+			"id": 63,
+			"name": "Truth",
+			"image": "truth.png",
+			"victim": "Luka Couffaine",
+			"goals": ["To learn the secret that Marinette is keeping from him"],
+			"quote": null,
+			"second_quote": "Perfect that should hold all her secrets. Good job Light Eye, stay where you are, I'll be there soon.",
+			"power_and_ability": ["Truth Beams"]
+		},
+		{
+			"id": 64,
+			"name": "Lies",
+			"image": "lies.png",
+			"victim": "Kagami Tsurugi",
+			"goals": ["To get rid the world from lies"],
+			"quote": null,
+			"second_quote": "And you mother, have you lied as well?",
+			"power_and_ability": ["Paralyzing lying people"]
+		},
+		{
+			"id": 65,
+			"name": "Furious Fu",
+			"image": "furious-fu.png",
+			"victim": "Master Wang Fu",
+			"goals": ["To take back the walking stick that Su-Han rudely took from him and make Su-Han apologize to his wife for causing her distress"],
+			"quote": "Oh so this is your silly little plan. I know what you gonna do.",
+			"second_quote": "Thunder!",
+			"power_and_ability": [
+				"Bring words to life",
+				"Painting"
+			]
 		}
 	]
 }
