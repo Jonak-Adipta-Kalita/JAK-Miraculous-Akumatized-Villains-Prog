@@ -827,6 +827,66 @@
 				"Power enhancement",
 				"Telepathy"
 			]
+		},
+		{
+			"id": 50,
+			"name": "Animaestro",
+			"image": "animaestro.png",
+			"victim": "Thomas Astruc",
+			"goals": ["To people to recognize him as a big shot"],
+			"quote": null,
+			"second_quote": "So you really think a director does nothing? Let me show you exactly what I'm capable of.",
+			"power_and_ability": [
+				"Two-dimensional shapeshifting",
+				"Various superpowers (depending on the form he takes)"
+			]
+		},
+		{
+			"id": 51,
+			"name": "Bakerix",
+			"image": "bakerix.png",
+			"victim": "Rolland Dupain",
+			"goals": ["To punish people for not doing things the old-fashioned way"],
+			"quote": "That's not how it's done!",
+			"second_quote": null,
+			"power_and_ability": [
+				"Elixir empowerment",
+				"Supernatural strength",
+				"Supernatural leap"
+			]
+		},
+		{
+			"id": 52,
+			"name": "Backwarder",
+			"image": "backwarder.png",
+			"victim": "Marianne Lenoir",
+			"goals": ["To steal time by setting people in time backwards"],
+			"quote": "There you are again, you ghastly bug! Once I've touched you, all I have to do is wait for you to transform back!",
+			"second_quote": "No more time to waste!",
+			"power_and_ability": [
+				"Time reversal",
+				"Enhanced strength",
+				"Enhanced speed",
+				"Enhanced agility and reflexes",
+				"Enhanced jump",
+				"Sword-fighting"
+			]
+		},
+		{
+			"id": 53,
+			"name": "Weredad",
+			"image": "weredad.png",
+			"victim": "Tom Dupain",
+			"goals": ["To protect his daughter from heartbreak"],
+			"quote": "How dare you come back after what you've done?",
+			"second_quote": "I forbid you to rescue her! You don't deserve to save her. From now on, no one else but I will protect her!",
+			"power_and_ability": [
+				"Werewolf physiology",
+				"Enhanced strength",
+				"Enhanced jump",
+				"Vine manipulation",
+				"Natural weaponry"
+			]
 		}
 	]
 }
