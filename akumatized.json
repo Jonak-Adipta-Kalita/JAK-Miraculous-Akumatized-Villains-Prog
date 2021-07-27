@@ -701,6 +701,56 @@
 				"Enhanced jump",
 				"Zombifying Kisses"
 			]
+		},
+		{
+			"id": 42,
+			"name": "Frozer",
+			"image": "frozer.png",
+			"victim": "Philippe",
+			"goals": ["To turn Paris into his own personal ice rink"],
+			"quote": null,
+			"second_quote": "Ladybug and Cat Noir. Your frozen statues will sparkle like trophies upon my kingdom of ice!",
+			"power_and_ability": ["Ice manipulation"]
+		},
+		{
+			"id": 43,
+			"name": "Style Queen",
+			"image": "style-queen.png",
+			"victim": "Audrey Bourgeois",
+			"goals": [
+				"To get revenge on Gabriel Agreste",
+				"To get revenge on everyone who made a fun of her, especially on Senti Alec for embarrassing her on live television"
+			],
+			"quote": "Well then. If fashion-disaster daddy isn't here, I'll just have to settle for Agreste Junior! You're fired!",
+			"second_quote": "Claudine— uh, Chloé. I'm 'not' mom, I am Style Queen. Do you want to be fired, too?",
+			"power_and_ability": [
+				"Glitter magic",
+				"Chrysopoeia",
+				"Gold absorption",
+				"Barrier generation",
+				"Glitter mimicry",
+				"Mass teleportation",
+				"Intangibility",
+				"Transforming people into golden dust"
+			]
+		},
+		{
+			"id": 44,
+			"name": "Troublemaker",
+			"image": "troublemaker.png",
+			"victim": "Penny Rolling",
+			"goals": ["To cause problems for everyone else"],
+			"quote": null,
+			"second_quote": "There's no more Penny to deal with all your problems, Jagged! From now on, there's only Troublemaker! And I'll make your life nothing but problems!",
+			"power_and_ability": [
+				"Intangibility",
+				"Stealth",
+				"Flight (intangible form)",
+				"Skilled combatant",
+				"",
+				"Supernatural strength",
+				"Enhanced agility"
+			]
 		}
 	]
 }
