@@ -747,9 +747,85 @@
 				"Stealth",
 				"Flight (intangible form)",
 				"Skilled combatant",
-				"",
 				"Supernatural strength",
 				"Enhanced agility"
+			]
+		},
+		{
+			"id": 45,
+			"name": "Reverser",
+			"image": "reverser.png",
+			"victim": "Marc Anciel",
+			"goals": ["To get revenge on Nathaniel for destroying his notebook and Marinette for convincing him to step out of his comfort zone, only to be disappointed"],
+			"quote": "Reversion!",
+			"second_quote": "I'm not Marc anymore. I am Reverser! And you, Marinette, the one who caused all this! You think you're the super helpful girl who's loved by everyone? Well, from now on, everyone will hate you! Reversion!",
+			"power_and_ability": [
+				"Hoverboard intuition",
+				"Inversion"
+			]
+		},
+		{
+			"id": 46,
+			"name": "Anansi",
+			"image": "anansi.png",
+			"victim": "Nora Cesaire",
+			"goals": ["To show how dangerous the world is to Alya"],
+			"quote": null,
+			"second_quote": "Now that you can't cheat anymore, cappie, show us just how you plan to protect your friends. Come and get her if you're not a fly-weight!",
+			"power_and_ability": [
+				"Spider physiology",
+				"Wall crawling",
+				"Web generation",
+				"Multiple arms",
+				"Supernatural strength and durability"
+			]
+		},
+		{
+			"id": 47,
+			"name": "Malediktator",
+			"image": "malediktator.png",
+			"victim": "Andre Bourgeois",
+			"goals": [
+				"To prove to his daughter that he isn't powerless",
+				"To want to the citizens of Paris to go along with his construction project without protest"
+			],
+			"quote": "By the power invested in me, I declare you all... MY SLAVES!!!",
+			"second_quote": null,
+			"power_and_ability": [
+				"Curse bubble generation",
+				"Brainwashing",
+				"Mind control",
+				"Body manipulation"
+			]
+		},
+		{
+			"id": 48,
+			"name": "Sandboy",
+			"image": "sandboy.png",
+			"victim": "Unnamed boy",
+			"goals": ["To bring nightmares to life"],
+			"quote": "The Sandboy just checked in. Now nightmares can begin.",
+			"second_quote": null,
+			"power_and_ability": [
+				"Sand manipulation",
+				"Fear manipulation",
+				"Nightmare manipulation",
+				"Power nullification (as long as it's a fear)",
+				"Pseudo-flight",
+				"Pillow empowerment"
+			]
+		},
+		{
+			"id": 49,
+			"name": "Catalyst",
+			"image": "catalyst.png",
+			"victim": "Nathalie Sancoeur",
+			"goals": ["To assist Hawk Moth in taking Ladybug and Cat Noir's miraculous"],
+			"quote": "Nothing's more delightful than leading them to believe that they actually have a chance of winning when their future has already been decided!",
+			"second_quote": "Hawk Moth, I give you the power to release as many akumas as you desire. From now on, you are the all-mighty Scarlet Moth.",
+			"power_and_ability": [
+				"Power enhancement",
+				"Telepathy"
 			]
 		}
 	]
