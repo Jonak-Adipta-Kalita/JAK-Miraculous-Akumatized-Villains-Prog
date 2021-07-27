@@ -937,6 +937,101 @@
 				"Toy empowerment",
 				"Animation"
 			]
+		},
+		{
+			"id": 57,
+			"name": "Kwamibuster",
+			"image": "kwamibuster.png",
+			"victim": "Ms. Mendeleiev",
+			"goals": ["To get the kwamis"],
+			"quote": null,
+			"second_quote": "I'm going to capture your kwamis and prove to everyone that these magic creatures really do exist! True or false?",
+			"power_and_ability": ["Vacuum wielding"]
+		},
+		{
+			"id": 58,
+			"name": "Feast",
+			"image": "feast.png",
+			"victim": "Dormant Sentimonster",
+			"goals": ["To sate its unyielding hunger by feasting on all of the Miraculouses"],
+			"quote": null,
+			"second_quote": null,
+			"power_and_ability": [
+				"Super strength",
+				"Enhanced speed",
+				"Inner pocket dimension",
+				"Prehensile tongue",
+				"Magma immunity"
+			]
+		},
+		{
+			"id": 59,
+			"name": "Ikari Gozen",
+			"image": "ikari-gozen.png",
+			"victim": "Tomoe Tsurugi",
+			"goals": ["To punish Kagami after she disobeys her by participating in the Friendship Day games"],
+			"quote": "You'll never catch me! I'm Ikari Gozen. As elusive as the wind, as powerful as the flood, as swift as lightning!",
+			"second_quote": "Kagami! You disobeyed me! You will never go out again!",
+			"power_and_ability": [
+				"Enhanced swordsmanship",
+				"Inorganic physiology",
+				"Large size",
+				"Metal mimicry",
+				"Seat beat manipulation"
+			]
+		},
+		{
+			"id": 60,
+			"name": "Desperada",
+			"image": "desperada.png",
+			"victim": "Vivica",
+			"goals": ["To punish Jagged Stone for firing her and having the gall to try replacing her"],
+			"quote": "In that case, you'll be my first choice too! I never miss a musical note. Vivica ALWAYS hits her targets!",
+			"second_quote": "Jagged Stone! So you fire me, and now you want to replace me with what? A school-kid?",
+			"power_and_ability": [
+				"Instrument weapon summoning",
+				"Axe wielding",
+				"Gunmanship",
+				"Sticker imprisonment",
+				"Smoke manipulation",
+				"Enhanced vision",
+				"Marksmanship",
+				"Hand-to-hand combat",
+				"Stealth mastery"
+			]
+		},
+		{
+			"id": 61,
+			"name": "Startrain",
+			"image": "startrain.png",
+			"victim": "Claudie Kante",
+			"goals": ["To become an astronaut and explore the galaxy with everyone on board the train"],
+			"quote": "Why? Now I have a hundred percent chance of traveling the universe! And I get to take you with me, too! Isn't this fantastic?",
+			"second_quote": "Ladies and gentlemen, I am Startrain! You all get to live my dream with me! Shoot off the rails, and fly off in a rocket to explore not just the moon, but the entire universe!",
+			"power_and_ability": [
+				"Control over the Startrain",
+				"Technopathy",
+				"Thermal manipulation"
+			]
+		},
+		{
+			"id": 62,
+			"name": "Cat Blanc",
+			"image": "cat-blanc.png",
+			"victim": "Adrien Agreste/Cat Noir",
+			"goals": ["To take Ladybug's miraculous"],
+			"quote": "I'm not Cat Noir anymore. I'm Cat Blanc",
+			"second_quote": "An eraser? I'd like to erase the past too, but there's only one way to do that. You know that by merging our Miraculous together, we'd be granted one wish, right? Any wish we wanted. Well, my wish would be to fix everything, so we could be in love again. And have a hamster, too. You've always dreamed of having one. We'll call it...",
+			"power_and_ability": [
+				"Infinite destruction",
+				"Disintegration",
+				"Ergokinesis",
+				"Invulnerability",
+				"Enhanced speed",
+				"Enhanced strength",
+				"Enhanced agility and reflexes",
+				"Cunning"
+			]
 		}
 	]
 }
