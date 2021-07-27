@@ -887,6 +887,56 @@
 				"Vine manipulation",
 				"Natural weaponry"
 			]
+		},
+		{
+			"id": 54,
+			"name": "Silencer",
+			"image": "silencer.png",
+			"victim": "Luka Couffaine",
+			"goals": ["Get Bob Roth to tell the truth on television"],
+			"quote": "You’re the most extraordinary girl, Marinette. Clear as a musical note and as sincere as a melody. You’re the music that’s been playing inside my head since the day we first met. I won’t let anything happen to you.",
+			"second_quote": "Don't worry, Marinette. I would never hurt you. I will use the power Hawk Moth has given me to restore justice. I will force Bob Roth to admit what he has done to you and Kitty Section.",
+			"power_and_ability": [
+				"Voice thievery",
+				"Helmet Empowerment",
+				"Ear Suction",
+				"Voice Manipulation",
+				"Enhanced strength",
+				"Enhanced speed",
+				"Enhanced Jump",
+				"Hand-to-hand combat",
+				"Cunning"
+			]
+		},
+		{
+			"id": 55,
+			"name": "Party Crasher",
+			"image": "party-crasher.png",
+			"victim": "Wayhem",
+			"goals": ["To get revenge on Adrien for lying to him about not being allowed to have friends over and for not being invited to Adrien's party"],
+			"quote": "Idiot! You can't get me! I can read your every dance step! Disco!",
+			"second_quote": "So, Adrien? Too busy for your number one fan? Well I'll make sure you never forget to invite me to one of your parties again. Adrien! Where are you, Adrien!?",
+			"power_and_ability": [
+				"Control over his disco ball gauntlets",
+				"Disco ball imprisonment",
+				"Energy beam emission",
+				"Move prediction"
+			]
+		},
+		{
+			"id": 56,
+			"name": "Christmaster",
+			"image": "christmaster.png",
+			"victim": "Chris Lahiffe",
+			"goals": ["To get his Christmas present early"],
+			"quote": "You were tricked! That's Cat Noir dressed up as Santa Claus, not the other way around! You're such babies!",
+			"second_quote": "I have my secret weapons to fight you with. Yourselves! Have fun dumb-dumbs!",
+			"power_and_ability": [
+				"Reality warping",
+				"Toy manipulation",
+				"Toy empowerment",
+				"Animation"
+			]
 		}
 	]
 }
