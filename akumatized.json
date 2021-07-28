@@ -1148,6 +1148,59 @@
 				"Super jump",
 				"Kiss empowerment"
 			]
+		},
+		{
+			"id": 72,
+			"name": "Oni-Chan",
+			"image": "oni-chan.png",
+			"victim": "Kagami Tsurugi",
+			"goals": ["To keep Lila away from Adrien"],
+			"quote": "I will protect you from anyone who tries to harm you. I'll protect you from Lila.",
+			"second_quote": "Well this time you're gonna have to give in. Otherwise you'll really get it, whether you want it or not.",
+			"power_and_ability": [
+				"Enhanced physical abilities",
+				"Energized weaponry",
+				"Tracking Teleportation",
+				"Location Swapping",
+				"Enhanced swordsmanship"
+			]
+		},
+		{
+			"id": 73,
+			"name": "Miraculer",
+			"image": "miraculer.png",
+			"victim": "Sabrina Raincomprix",
+			"goals": ["To get Chloe to play with her again"],
+			"quote": "I'm Miraculer now! I've stolen Cat Noir and Ladybug's superpowers! Do you want Ladybug's? Then you can be Ladybug, and I'll be Cat Noir! For real! Just like we've always dreamed of!",
+			"second_quote": "I was about to, but... Ridiculous! Utterly ridiculous!",
+			"power_and_ability": [
+				"Power absorption",
+				"Lucky Charm",
+				"Miraculous Ladybug",
+				"Cataclysm",
+				"Shell-ter",
+				"Mirage",
+				"Power redistribution",
+				"Power mixture",
+				"Enhanced strength",
+				"Enhanced jump",
+				"Weapon proficiency"
+			]
+		},
+		{
+			"id": 74,
+			"name": "Timetagger",
+			"image": "Timetagger.png",
+			"victim": "Chris Lahiffe",
+			"goals": ["To steal Ladybug and Cat Noir's Miraculouses and return the Miraculouses to the Future Hawk Moth before they can become adults"],
+			"quote": "If you don't give me your Miraculous, I'll send everyone into the past.",
+			"second_quote": "Yo-yo! I'm Timetagger from the future, man! I criss-cross time with a spraypaint can. Looks like your time's up at last, 'cause I'm gonna send you way back to the past!",
+			"power_and_ability": [
+				"Marksmanship",
+				"Rapping",
+				"Temporal teleportation",
+				"Time portal creation"
+			]
 		}
 	]
 }
