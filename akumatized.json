@@ -1201,6 +1201,53 @@
 				"Temporal teleportation",
 				"Time portal creation"
 			]
+		},
+		{
+			"id": 75,
+			"name": "Heart Hunter",
+			"image": "heart-hunter.png",
+			"victim": "Andre and Audrey Bourgeois",
+			"goals": ["To devour all the love in Paris so that no one could enjoy it when they couldn't"],
+			"quote": "And for dessert, the cat! I'm sure he's very tasty.",
+			"second_quote": "Haha! I am the most powerful of all the super villains.",
+			"power_and_ability": [
+				"Head physiology",
+				"Levitation",
+				"Love sensing",
+				"Heart-transforming optical beams (Audrey)",
+				"Vacuum breath (Andre)"
+			]
+		},
+		{
+			"id": 76,
+			"name": "Oblivio",
+			"image": "oblivio.png",
+			"victim": "Alya Cesaire and Nino Lahiffe",
+			"goals": ["To make people forget their embarrassing moment of being caught playing Super Penguino by their classmates"],
+			"quote": "You remember your BFF Oblivio, don't you? Don't tell us you've forgotten us. Ha ha ha ha!",
+			"second_quote": "Ladybug, Cat Noir, we know you're in here. You won't get away this time.",
+			"power_and_ability": [
+				"Memory erasure",
+				"Super strength",
+				"Intangibility"
+			]
+		},
+		{
+			"id": 77,
+			"name": "Miracle Queen",
+			"image": "miracle-queen.png",
+			"victim": "Chloe Bourgeois/Queen Bee",
+			"goals": ["To get revenge against Ladybug after she refuses to lend her the Bee Miraculous, despite her genuine desire to help"],
+			"quote": "You were once Ladybug and Cat Noir's minions, but from now on, you will be Miracle Queen's royal guard!",
+			"second_quote": "People of Paris, listen to Miracle Queen's first order! From now on, no one will have to keep his identity a secret! All the Miraculous wearers, come to me!",
+			"power_and_ability": [
+				"Teleportation",
+				"Glitter generation",
+				"Wasp manipulation",
+				"Mind control",
+				"Enhanced agility",
+				"Enhanced reflexes"
+			]
 		}
 	]
 }
