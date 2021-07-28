@@ -1065,6 +1065,89 @@
 				"Bring words to life",
 				"Painting"
 			]
+		},
+		{
+			"id": 66,
+			"name": "Sole Crusher",
+			"image": "sole-crusher.png",
+			"victim": "Zoé Lee",
+			"goals": ["To step over Chloé and show her she can be at her level and even better"],
+			"quote": "The student has become the master, Chloé, and now, I'm going to crush you!",
+			"second_quote": null,
+			"power_and_ability": ["Absorbing people by stomp or kick on them"]
+		},
+		{
+			"id": 67,
+			"name": "Queen Banana",
+			"image": "queen-banana.png",
+			"victim": "Chloé Bourgeois",
+			"goals": ["To get revenge on Miss Bustier's class for removing her from the movie Terrificator and on Zoé for taking her role as the main character"],
+			"quote": "You'll have to come out sometime, Ladybug, especially if you don't wanna see my monkey make a banana smoothie out of your kitty!",
+			"second_quote": null,
+			"power_and_ability": [
+				"Wields a banana gun that turns people into bananas",
+				"Driving a flying car"
+			]
+		},
+		{
+			"id": 68,
+			"name": "Queen Wasp",
+			"image": "queen-wasp.png",
+			"victim": "Chloe Bourgeois/Queen Bee",
+			"goals": [
+				"To be exceptional",
+				"To get Ladybug and Cat Noir's Miraculous"
+			],
+			"quote": "So, who's exceptional now, then? Them… or me?",
+			"second_quote": "Your reign is over, Ladybug and Cat Noir! I don't even care if you don't give me your Miraculous; my wasps will paralyze you and I'll simply take them myself.",
+			"power_and_ability": [
+				"Wasp manipulation",
+				"Pseudo-flight",
+				"Enhanced strength",
+				"Enhanced jump",
+				"Hair comb empowerment"
+			]
+		},
+		{
+			"id": 69,
+			"name": "Rena Rage",
+			"image": "rena-rage.png",
+			"victim": "Alya Cesaire/Rena Rouge",
+			"goals": ["To beat Carapace to prove that he is 'a flyweight'"],
+			"quote": null,
+			"second_quote": "I am now, Rena Rage!",
+			"power_and_ability": [
+				"Enhanced strength",
+				"Enhanced Jump",
+				"Hand-to-hand combat"
+			]
+		},
+		{
+			"id": 70,
+			"name": "Shell Shock",
+			"image": "shell-shock.png",
+			"victim": "Alya Cesaire/Rena Rouge",
+			"goals": ["To be with Rena Rouge to love him again"],
+			"quote": null,
+			"second_quote": "There is no more Carapace. There is only Shell Shock!",
+			"power_and_ability": ["Same as Carapace"]
+		},
+		{
+			"id": 71,
+			"name": "Chameleon",
+			"image": "chameleon.png",
+			"victim": "Lila Rossi",
+			"goals": ["To have another chance of defeating Ladybug"],
+			"quote": "You're right, I'm Chameleon. You're getting better at this, Ladybug. Which is a good thing. It'll make this fight all the more interesting.",
+			"second_quote": "That's your plan to defeat me, Ladybug? Make me dress like you? On second thought, such horrible fashion might actually do me in.",
+			"power_and_ability": [
+				"Shape-shifting",
+				"Sleep inducement",
+				"Voice mimicry",
+				"Power mimicry",
+				"Super jump",
+				"Kiss empowerment"
+			]
 		}
 	]
 }
