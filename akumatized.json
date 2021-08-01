@@ -1248,6 +1248,16 @@
 				"Enhanced agility",
 				"Enhanced reflexes"
 			]
+		},
+		{
+			"id": 78,
+			"name": "Rocketeer",
+			"image": "rocketeer.png",
+			"victim": "Nino Lahiffe",
+			"goals": ["To get revenge against Cat Noir for flirting with his girlfriend, Alya"],
+			"quote": null,
+			"second_quote": null,
+			"power_and_ability": ["Explosion Tears"]
 		}
 	]
 }
