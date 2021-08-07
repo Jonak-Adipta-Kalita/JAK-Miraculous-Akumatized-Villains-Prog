@@ -35,7 +35,6 @@ const displayPopup = (villaien, id) => {
 	const power_and_ability = Array(villaien.villains[id - 1].power_and_ability).map((powerandability) => powerandability.join(", "));
 	let goal;
 	let quoteHTMLString;
-	let second_quoteHTMLString;
 	
 	if (!villaien.villains[id - 1].goals[1]) {
 		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol[0]);
@@ -48,12 +47,6 @@ const displayPopup = (villaien, id) => {
 	} else {
 		quoteHTMLString = `<small>Quote: </small>${villaien.villains[id - 1].quote}`;
 	}
-	
-	if (villaien.villains[id - 1].second_quote === null) {
-		second_quoteHTMLString = "";
-	} else {
-		second_quoteHTMLString = `<small>Second Quote: </small>${villaien.villains[id - 1].second_quote}`;
-	}
 
 	const htmlString = `
 		<div class="popup">
@@ -63,9 +56,9 @@ const displayPopup = (villaien, id) => {
 				<h2 class="card-title">
 					${villaien.villains[id - 1].id + 1}. ${villaien.villains[id - 1].name}
 				</h2>
+				<p><small>Victim: </small>${villaien.villains[id - 1].victim}</p>
 				<p><small>Goal(s): </small>${goal}</p>
 				<p>${quoteHTMLString}</p>
-				<p>${second_quoteHTMLString}</p>
 				<p><small>Power and Ability(s): </small>${power_and_ability}</p>
 			</div>
 		</div>
