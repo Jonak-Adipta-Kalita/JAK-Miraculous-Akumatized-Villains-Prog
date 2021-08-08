@@ -1179,6 +1179,18 @@
 			"goals": ["To get revenge against Cat Noir for flirting with his girlfriend, Alya"],
 			"quote": "You're not my Enemy Adrien, Chat Noir is!",
 			"power_and_ability": ["Explosion Tears"]
+		},
+		{
+			"id": 79,
+			"name": "Wishmaker",
+			"image": "wishmaker.png",
+			"victim": "Alec Cataldi",
+			"goals": ["Make Everyone's Childhood Wish come True!"],
+			"quote": "From now on, I will only be who I wanna be, and thanks to me, everyone will finally be able to do, they have always wanted!",
+			"power_and_ability": [
+				"Turning people into their childhood dreams",
+				"Levitation"
+			]
 		}
 	]
 }
