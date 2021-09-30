@@ -1191,6 +1191,15 @@
 				"Turning people into their childhood dreams",
 				"Levitation"
 			]
+		},
+		{
+			"id": 80,
+			"name": "Simple Man",
+			"image": "simple-man.png",
+			"victim": "Rolland Dupain",
+			"goals": ["Make this world Simpler"],
+			"quote": "Finally something I unserstand!",
+			"power_and_ability": ["Simplify Anyone's Mind"]
 		}
 	]
 }
