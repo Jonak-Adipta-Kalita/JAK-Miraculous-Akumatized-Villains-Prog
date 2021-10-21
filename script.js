@@ -32,9 +32,11 @@ const selectVillain = async (id) => {
 
 const displayPopup = (villaien, id) => {	
 	const image = `./images/${villaien.villains[id - 1].image}`;
-	const power_and_ability = Array(villaien.villains[id - 1].power_and_ability).map((powerandability) => powerandability.join(", "));
+	const power_and_abilities = Array(villaien.villains[id - 1].power_and_abilities).map((powerAndAbilities) => powerAndAbilities.join(", "));
 	let goal;
 	let quoteHTMLString;
+	let goalsHTMLString;
+	let power_and_abilitiesHTMLString;
 	
 	if (!villaien.villains[id - 1].goals[1]) {
 		goal = Array(villaien.villains[id - 1].goals).map((gol) => gol[0]);
@@ -47,6 +49,18 @@ const displayPopup = (villaien, id) => {
 	} else {
 		quoteHTMLString = `<small>Quote: </small>${villaien.villains[id - 1].quote}`;
 	}
+	
+	if (villaien.villains[id - 1].goals[0] === null) {
+		goalsHTMLString = "";
+	} else {
+		goalsHTMLString = `<small>Goal(s): </small>${goal}`;
+	}
+	
+	if (villaien.villains[id - 1].power_and_abilities[0] === null) {
+		power_and_abilitiesHTMLString = "";
+	} else {
+		power_and_abilitiesHTMLString = `<small>Power and Ability(s): </small>${power_and_abilities}`;
+	}
 
 	const htmlString = `
 		<div class="popup">
@@ -57,9 +71,9 @@ const displayPopup = (villaien, id) => {
 					${villaien.villains[id - 1].id + 1}. ${villaien.villains[id - 1].name}
 				</h2>
 				<p><small>Victim: </small>${villaien.villains[id - 1].victim}</p>
-				<p><small>Goal(s): </small>${goal}</p>
+				<p>${goalsHTMLString}</p>
 				<p>${quoteHTMLString}</p>
-				<p><small>Power and Ability(s): </small>${power_and_ability}</p>
+				<p>${power_and_abilitiesHTMLString}</p>
 			</div>
 		</div>
 	`;
