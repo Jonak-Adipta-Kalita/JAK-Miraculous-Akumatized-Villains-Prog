@@ -1212,8 +1212,8 @@
 		},
 		{
 			"id": 82,
-			"name": "Short Lived",
-			"image": "short-lived.png",
+			"name": "Ephemeral",
+			"image": "ephemeral.png",
 			"victim": "Adrien Agreste",
 			"goals": ["Get Ladybug's miraculous to bring back his Mother"],
 			"quote": null,
