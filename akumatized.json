@@ -1209,6 +1209,15 @@
 			"goals": [null],
 			"quote": null,
 			"power_and_abilities": [null]
+		},
+		{
+			"id": 82,
+			"name": "Short Lived",
+			"image": "short-lived.png",
+			"victim": "Adrien Agreste",
+			"goals": ["Get Ladybug's miraculous to bring back his Mother"],
+			"quote": null,
+			"power_and_abilities": ["Spped up Time"]
 		}
 	]
 }
