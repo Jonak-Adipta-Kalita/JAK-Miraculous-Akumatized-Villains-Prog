@@ -1218,6 +1218,15 @@
 			"goals": ["Get Ladybug's miraculous to bring back his Mother"],
 			"quote": null,
 			"power_and_abilities": ["Spped up Time"]
+		},
+		{
+			"id": 82,
+			"name": "Psychomedian",
+			"image": "psychomedian.png",
+			"victim": "Harry Clown",
+			"goals": ["To make everyone take him seriously"],
+			"quote": "Trust me my friend, I will wipe their smiles from their faces",
+			"power_and_abilities": ["Change some one's Emotions"]
 		}
 	]
 }
