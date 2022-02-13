@@ -1206,9 +1206,9 @@
 			"name": "Qilin",
 			"image": "qilin.png",
 			"victim": "Sabin Dupain-Cheng",
-			"goals": [null],
+			"goals": ["Punish who put her on Hand-Cuffs"],
 			"quote": null,
-			"power_and_abilities": [null]
+			"power_and_abilities": ["Control Nature"]
 		},
 		{
 			"id": 82,
@@ -1227,6 +1227,15 @@
 			"goals": ["To make everyone take him seriously"],
 			"quote": "Trust me my friend, I will wipe their smiles from their faces",
 			"power_and_abilities": ["Change some one's Emotions"]
+		},
+		{
+			"id": 83,
+			"name": "Risk",
+			"image": "risk.png",
+			"victim": "Froggy",
+			"goals": ["Ride bicycle without his parents stopping him"],
+			"quote": null,
+			"power_and_abilities": ["Make people forget their fears"]
 		}
 	]
 }
